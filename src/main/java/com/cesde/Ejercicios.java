@@ -3,8 +3,8 @@ package com.cesde;
 public class Ejercicios {
     
     public String ejercicio1(int num1, int num2) {
-        // Implementar solución
-        return "";
+
+        return "Hola mundo";
     }
     
     public String ejercicio2(double calificacion) {
